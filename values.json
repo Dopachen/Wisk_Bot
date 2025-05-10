@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "PPY_COMMUNITY": {
+      "least_discord_account_age": "30d",
+      "least_hypixel_account_age": "30d",
+      "least_hypixel_level": 15
+    },
+    "ARCADE_COMMUNITY": {
+      "least_discord_account_age": "30d",
+      "least_hypixel_account_age": "30d",
+      "least_hypixel_level": 15
+    }
+  }
+}
